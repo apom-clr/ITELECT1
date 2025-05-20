@@ -1,0 +1,102 @@
+* {
+    
+}
+.body{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+}
+
+.mylogosample {
+    height: 50px;
+    width: 40px;
+}
+.navi{
+    width: 100%;
+}
+.imahe img{
+    height: 500px;
+    width: 100px;
+    border-radius: 30px;
+}
+.imahe{
+    margin: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.greet-box{
+            background-color: rgb(11, 52, 139);
+            border-radius: 20px;
+            background-size: 1000px;
+            justify-content: center;
+            align-items: center;
+            margin: 10px;
+            padding: 50px;
+        }
+.mysearch{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-attachment: fixed;
+    
+}
+.search{
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    background-attachment: fixed;
+}
+.mycarousel {
+    justify-content: center;
+    margin: 50px;
+    
+}
+.mycarousel img {
+    width: 2000px;
+    height: 700px;
+    border-radius: 10px;
+    justify-content: center;
+}
+.myspace{
+    justify-content: center;
+    align-content: center;
+}
+.cards{
+    margin: 50px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-content: center;
+}
+
+.card1{
+    
+    left: 100px;
+    justify-items: start;
+    margin: 60px;
+}
+.card2{
+    
+    left: 100px;
+    justify-items: center;
+    margin: 60px;
+}
+.card3{
+    
+    left: 100px;
+    justify-items: end;
+    margin: 60px;
+}
+
+.card4{
+    
+    left: 100px;
+    justify-items: end;
+    margin: 60px;
+}
+.cards img{
+    height: 400px;
+    border-radius: 20px;
+}
+.mymodal {
+    width: 1000px;
+}
